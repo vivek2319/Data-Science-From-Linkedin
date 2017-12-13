@@ -1,0 +1,26 @@
+What does Andrew Ng think about Deep Learning?
+Andrew Ng 
+Andrew Ng, Co-founder of Coursera; Adjunct Professor of Stanford
+Answered Feb 3, 2016 · Featured on Quora Sessions's Twitter
+· Upvoted by Shivendra Panicker, Masters of Science Computer Science, New York University (2018) and Robby Goetschalckx, 11+ years as researcher in Machine Learning.
+Originally Answered: Andrew Ng: What do you think of Deep Learning?
+
+Deep Learning is an amazing tool that is helping numerous groups create exciting AI applications. It is helping us build self-driving cars, accurate speech recognition, computers that can understand images, and much more.
+
+Despite all the recent progress, I still see huge untapped opportunities ahead. There're many projects in precision agriculture, consumer finance, medicine, ... where I see a clear opportunity for deep learning to have a big impact, but that none of us have had time to focus on yet. So I'm confident deep learning isn't going to "plateau" anytime soon and that it'll continue to grow rapidly.
+
+Deep Learning has also been overhyped. Because neural networks are very technical and hard to explain, many of us used to explain it by drawing an analogy to the human brain. But we have pretty much no idea how the biological brain works. UC Berkeley's Michael Jordan calls deep learning a "cartoon" of the biological brain--a vastly oversimplified version of something we don't even understand--and I agree. Despite the media hype, we're nowhere near being able to build human-level intelligence. Because we fundamentally don't know how the brain works, attempts to blindly replicate what little we know in a computer also has not resulted in particularly useful AI systems. Instead, the most effective deep learning work today has made its progress by drawing from CS and engineering principles and at most a touch of biological inspiration, rather than try to blindly copy biology.
+
+Concretely, if you hear someone say "The brain does X. My system also does X. Thus we're on a path to building the brain," my advice is to run away!
+
+Many of the ideas used in deep learning have been around for decades. Why is it taking off only now? Two of the key drivers of its progress are: (i) scale of data and (ii) scale of computation. With our society spending more time on websites and mobile devices, for the past two decades we've been rapidly accumulating data. It was only recently that we figured out how to scale computation so as to build deep learning algorithms that can take advantage of this voluminous amount of data.
+
+This has now put us in two positive feedback loops, which is accelerating the progress of deep learning:
+
+First, now that we have huge machines to absorb huge amounts of data, the value of big data is clearer. This creates a greater incentive to acquire more data, which in turn creates a greater incentive to build bigger/faster neural networks.
+
+Second, that we have fast deep learning implementations also speeds up innovation, and accelerates deep learning's research progress. Many people underestimate the impact of computer systems investments in deep learning. When carrying out deep learning research, we start out not knowing what algorithms will and won't work, and our job is to run a lot of experiments and figure it out. If we have an efficient compute infrastructure that lets you run an experiment in a day rather than a week, then your research progress could be almost 7x as fast!
+
+This is why around 2008 my group at Stanford started advocating shifting deep learning to GPUs (this was really controversial at that time; but now everyone does it); and I'm now advocating shifting to HPC (High Performance Computing/Supercomputing) tactics for scaling up deep learning. Machine learning should embrace HPC. These methods will make researchers more efficient and help accelerate the progress of our whole field.
+
+To summarize: Deep learning has already helped AI made tremendous progress. But the best is still to come! 
