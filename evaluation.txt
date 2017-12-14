@@ -1,0 +1,31 @@
+
+Kevin Tran First Data Scientist in 2 Startups | Cool - Assertive - Practical - Curious - Passionate - Helpful 10h
+
+
+How to evaluate your machine learning classification model? Python has precision and recall and R has sensitivity and specificity. Then there is confusion matrix. Ok confused enough? I'll explain it intuitively below!
+
+Confusion matrix is made to make you less confused but end up making you confused. 
+
+Anyways, you need 2 pieces of information:
+-Classes. This is generally [positive, negative] but it can be [small, medium, big] depending on the classes of your classification problem
+-Predicted vs. actual axis
+
+For each class, you want to maximize the count where predicted=actual
+
+"""Focus on ACTUAL"""
+
+If you have 100 REAL news, how many of them have you identified? Hitting all your real target?
+True positive rate = sensitivity =  RECALL (for positive)
+
+If you have 100 FAKE news, how many of them have you identified? Hitting all your fake target?
+True negative rate = specificity = RECALL (for negative)
+
+"""Focus on PREDICTION"""
+
+When you PREDICTED 100 real news, how many of them are actually real? How reliable is your prediction for real news?
+Positive predictive value = PRECISION (for positive)
+
+When you PREDICTED 100 fake news, how many of them are actually fake? How reliable is your prediction for fake news?
+Negative predictive value = PRECISION (for negative)
+
+#DataScience
