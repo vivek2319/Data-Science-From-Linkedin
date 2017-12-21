@@ -1,0 +1,23 @@
+
+Favio Vázquez Data Scientist at BBVA Data & Analytics 9h
+
+Is there a definition of a "Data Scientist"?
+
+In my last post, Mark Meloon said something very interesting: "There's a lot of negative comments out there (.. nonsense about "fake data scientists"). Newcomers should realize there are some great resources out there that can help them."
+
+Is it worth it to define this profession? I think so. Even though there's a fine line between this "new profession" and "old professions", there are factors that differentiate a data scientists from, let's say, a statistician or a business intelligence expert.
+
+This is a career, a profession and you have to work. So you better know what you should be doing or learning. It doesn't matter that you are new to the subject, or if someone says to you that "you are not a data scientist", prove them wrong a become a great one. 
+
+Here I want to briefly mention what things you can do to improve your skills and knowledge in the subject:
+
+1. Enter in a MOOC and finish it.
+2. Practice programming (a lot).
+3. Learn about business acumen.
+4. Collaborate in the Open Source community.
+5. Analyze data for fun but methodically. 
+6. Explain hard concepts about DS to non experts.
+7. Learn about the math behind ML and DL, but focus on solving problems.
+8. Don't rush, have fun and share your knowledge :).
+
+See you soon :)
