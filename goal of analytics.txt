@@ -1,0 +1,22 @@
+David Langer
+David Langer Analytics | Data Science | Machine Learning | Leadership 9h
+
+As an aspiring data scientist you know the end goal of your analytics efforts - the monetization of data. Now for the heretical bit - in most organizations most of the opportunities for monetizing data are inwardly-facing.
+
+By inwardly-facing I mean the application of analytics to internal business processes that results in demonstrable bottom line benefits - lower costs or higher revenue.
+
+Take operations research (OR) as an example. OR has been monetizing data for organizations for more than 70 years. 
+
+UPS has used OR to monetize their data to the tune of hundreds of millions of dollars per year in costs savings. Banks use OR techniques to optimize customer experiences when using tellers and ATMs. 
+
+Other examples abound - market segmentation, churn modeling, and conversion modeling.
+
+As an aspiring data scientist looking to build you portfolio of projects, you may want to keep this in mind. 
+
+I would value a candidate project that accurately predicted customer churn more highly than a project to build a cat video detector with a convolutional neural network .
+
+I would bet I'm not alone as a hiring manager in this.
+
+Happy data sleuthing!
+
+Disclaimer - I am not an OR expert, just fascinated by the area. It's been on my wish list to study further for quite some time.  :-)
