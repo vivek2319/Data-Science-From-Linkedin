@@ -1,0 +1,29 @@
+
+
+How to land a first data scientist position? I hear you. I have been there, done that. I know exactly how you struggle. I'll give you my 8 cents for the new year 2018 :)
+
+Level 1:
+1st: Understand data science! If you cannot explain linear or logistic regression in depth, study harder!
+
+2nd: Walk the talk via programming. You know in and out the tools and techniques to clean, transform, and tidy up your data and build models. SQL is a must here.
+
+
+Level 2:
+3rd: Problem solving. Given a business problem, how can you frame it to a technical one with feasible solution? What data do you need to collect? What are the assumptions and limitations? How to communicate your findings to various audience?
+
+4th: Research many companies, think about their potential problems, how will you solve them? Think hard and use that as ideas to build your personal projects to impress future employers.
+
+5th: Let the problems in 4th drive your learning. If it requires knowing time series, A/B testing, or operation research, go study it!
+
+
+If Level 2 completed, then:
+
+6th: Apply to positions that are close to data scientist such as internship, marketing or data analyst. Your chance will increase ten folds!
+
+7th: Go above and beyond in 6th.
+
+8th: #DataScience will be waiting for you :)
+
+Else: Back to Level 1
+
+- Kevin Tran 
