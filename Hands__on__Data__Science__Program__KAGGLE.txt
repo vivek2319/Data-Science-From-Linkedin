@@ -1,0 +1,29 @@
+
+Favio Vázquez
+Favio Vázquez Data Scientist at BBVA Data & Analytics 3h
+
+Hands-On Data Science Education. Learn the basics to confidently start a new career or compete in Kaggle challenges. And ***FREE!!***
+
+Thanks to Dan Becker and Rachael Tatman for creating this courses, and Ibrahim Kochbati for letting me know about these courses.
+
+I'll be doing these courses myself and will create a GitHub repo with my solutions, tell me here if you are interested in contributing :).
+
+Here you can access them:
+
+https://lnkd.in/eJkMiJF
+
+There are courses (for now) on:
+
+- Machine Learning: Machine learning is the hottest field in data science, and this track will get you started quickly.
+
+- R: Learn the language designed for data analysis. This track includes data set-up, machine learning and data visualization.
+
+- Data Visualization: Visualisation is one of the most versatile skills in data science. Make insightful and beautiful graphics to see what's happening in any dataset.
+
+- Deep Learning: Take Machine Learning to the next level. With TensorFlow and Keras, and then amaze yourself with what new things you can do.
+
+Cheers!
+
+Rock and Learn!
+
+P.D.:  Everything is in Python except for the the R track. 
