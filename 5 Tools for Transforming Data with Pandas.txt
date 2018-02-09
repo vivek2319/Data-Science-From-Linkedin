@@ -1,0 +1,59 @@
+﻿ Kyle McKiou Director of Data Science at The Marketing Store 
+
+5 Tools for Transforming Data with Pandas
+
+If you want to become a data scientist, it's critical that you learn how to transform data efficiently.  Master the 5 techniques below (links with examples in comments), and you will become a data-shaping wizard that is ready to tackle any dataset. 
+
+
+Reshaping Pandas DataFrames
+
+1. pivot 
+
+Creates a pivot table without aggregation.  Can handle categorical data.  Incredibly useful when you want to transform column data into rows.
+
+
+2. pivot_table  
+
+Generalization of pivot that can take multiple indices and performs aggregation. Great for when you want to pivot but have duplicate values for an index-column pair.
+
+
+3-4. stack and unstack  
+
+Stack pivots a level of the column labels to rows.
+Unstack pivots a level of row labels to columns.
+
+Extremely useful when manipulating multi-indexed DataFrames.
+
+
+5. groupby
+
+Groupby is a flexible method that creates an object that can be used to split a DataFrame into groups based on a column or row label, apply an operation to the groups, and aggregate them back together into a DataFrame.
+
+Very useful when you want information about categorical features.
+
+
+
+Check out these examples to learn more: 
+👉 https://lnkd.in/gH7WQwg 
+
+
+
+More Resources :
+
+
+->pivot
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.pivot.html 
+
+->pivot_table
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.pivot_table.html
+
+->stack
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.stack.html
+
+->unstack
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.unstack.html
+
+->groupby
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.groupby.html
+
+https://pandas.pydata.org/pandas-docs/stable/groupby.html
