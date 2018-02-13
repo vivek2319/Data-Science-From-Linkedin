@@ -1,0 +1,22 @@
+
+Ismail Elezi, Computer Science student
+Answered Sep 15, 2016
+
+I don’t have an absolute favorite algorithm, but some of my favorites are (not in order of relevance):
+
+    Back-propagation algorithm - a relatively simple idea that made neural networks useful.
+    Dropout - if we can consider it an algorithm (I like to think about it as a useful idea to use on neural networks). It makes you create ensemble classifiers without making many models.
+    PCA - mathematics at its best (or thereabouts). Very useful a lot of times, although probably a bit overused.
+    Perceptrons - just to study the convergence theorem, a thing of beauty.
+    Linear regression - the mathematics behind how the cost function comes is so nice.
+    Logistic regression - well, we want a simple but powerful model to do classification.
+    KNN - why not? Dumb, but very useful.
+    K-means - one of the most famous algorithms ever. There are so many much more sophisticated clustering algorithms, and k-means is still as useful as it ever was.
+    Replicator dynamics - because game theory is interesting and fun. And because it can be used as a building tool in doing a lot of completely different things, like graph matching or clustering (dominant sets).
+    Szemeredi’s regularity lemma - not a machine learning algorithms, but something that can be used on machine learning (and in any graph problems when we want to reduce them). And more importantly, because I worked on it in my master thesis, and did my first ever paper on it.
+    Support Vector Machines - because the maths there is stunning. And because all those hours of learning function analysis, are finally put to work.
+    Regularization - because nothing works without it.
+
+Well, more than I though I would put, but all of them have their usages.
+
+Link to this answer is ![here](https://www.quora.com/Which-is-your-favorite-Machine-Learning-algorithm)
