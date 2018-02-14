@@ -1,0 +1,45 @@
+﻿By Randy Lao
+Here are the Essential Topics of Math to learn #DataScience and #MachineLearning:
+
+- - -
+Breakdown of Importance
+Linear Algebra (35%)
+Statistics & Probability (25%)
+Calculus (15%)
+Optimization & Algorithms (15%)
+Other (10%)
+
+➤ Linear Algebra
+Matrices, Vectors, Eigenvalues & Eigenvectors, Linear Transformations & Equations
+https://lnkd.in/gW6_F_3
+
+➤ Inferential Statistics
+Sampling Distribution, Central Limit Theorem, Hypothesis Testing, Types of Errors, ANOVA, Chi-Square, T-Test
+https://lnkd.in/gbh3aRj
+
+➤ Probability Theory
+Random Variables, Types of Distributions, Sampling, Confidence Intervals, Z Scores
+https://lnkd.in/gJ442c8
+
+➤ Basic Calculus
+https://lnkd.in/gEUFDaS
+
+➤ Linear Programming
+Formulating a Real Problem to a Mathematical Model
+https://lnkd.in/gGBpjaK
+
+➤ Optimization
+Gradient Algorithms & Objective Functions
+https://lnkd.in/g_e9sJu
+
+➤ Graph Theory
+Trees, Nodes, Edges
+https://lnkd.in/gYUgBhA
+
+➤ Data Structures
+https://lnkd.in/gT_8_Fc
+
+- - -
+There are so many other great online resources for you to find and get a better understanding on how all of these topics tie into Data Science & Machine Learning
+
+Going over these topics will definitely set you up towards building the necessary mathematical foundations for this field.
