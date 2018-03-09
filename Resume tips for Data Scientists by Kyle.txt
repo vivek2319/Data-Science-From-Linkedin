@@ -1,0 +1,24 @@
+﻿Kyle McKiou
+Kyle McKiou Sr. Director of Data Science at The Marketing Store 39m
+
+3 more practical resume tips for aspiring data scientists
+
+I’ve covered quite a few resume tips for aspiring data scientist already: telling stories, standing out, simplifying, better design, etc
+
+All of those are critical, but they only work if a real human actually reads your resume.
+
+👉 Follow these 3 extra tips to get your resume past the initial review and increase your chances of landing interviews:
+
+1. Get your resume in front of decision makers. Find hiring managers and send them your resume after you apply
+
+2. Create a visually unique resume... BUT, also create a separate, plain-text version to pass into the ATS
+
+Then include your PDF resume as an attachment on your application (ever seen that ambiguous “attach extra documents” section at the end of applications? upload the pdf of your resume there)
+
+3. Scan for keywords in the JD and include them in your resume. If you don’t have a convenient place to include them, create a “skills” section that you just stack with keywords (assuming you are familiar with the technologies/skills)
+
+You can use jobscan (.co) to help identify the strength of your keyword matching
+
+👉 Follow these 3 tips and you’ll get a lot more human eyeballs reviewing your resume and contacting you for interviews!
+
+#aspiring #datascientist #resumetips
