@@ -1,0 +1,26 @@
+
+Kyle McKiou Sr. Director of Data Science at The Marketing Store 1d
+
+Anyone else totally avoid using grid search because it's so inefficient?
+
+Want to make automated hyperparameter tuning faster and more effective?
+
+➡️ I've been searching a bit and recently starting playing around with the hyperband tuning algorithm.
+
+It's a "novel bandit-based approach to hyperparamter tuning."
+
+Check out the research paper here:
+https://lnkd.in/g6qD6wE
+
+And an article from FastML:
+https://lnkd.in/gkYpHi5
+
+And what appears to the most popular Python implementation so far:
+https://lnkd.in/gN9aAFD
+
+➡️ Anybody else have experience using hyperband (or novel random search or greedy algorithms) to optimize hyperparameter tuning?
+
+What have you found to be most useful?
+
+#datascience #machinelearning #hyperparameters
+
