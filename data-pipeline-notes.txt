@@ -1,0 +1,28 @@
+
+Sergey Zelvenskiy
+Sergey Zelvenskiy Search Machine Learning Engineering at Walmart Labs 10h Edited
+
+Rule of thumb 👍 for choosing big data pipeline technologies:
+
+Data in motion 😎:
+Ask yourself, are you IO bound or CPU bound?
+
+IO bound usually means that you are doing a lot of enrichments using some microservices or db lookups. In this case, Spark is not your friend. You should go with something like Akka Streams.
+
+If you are CPU bound, (as in doing some meaningful processing) go with Apache Spark. Spark is really powerful at splitting your data and utilizing your cores.
+
+If you have a mix, go with Spark and mix it with RxJava on Schedulers.io().
+
+Batch 😴:
+Use Apache Spark on Yarn. Ok, if you really need to quickly run SQL on a large amount of data, use Presto.
+
+Temporary place to put your data:
+Apache Kafka
+
+Workflow:
+Use AirFlow.
+
+If you enjoy pain and willing to spend a lot of money, use Cassandra. 
+
+Everything else is either looking for trouble or solving a very specific case.
+
