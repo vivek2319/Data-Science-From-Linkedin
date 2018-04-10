@@ -1,0 +1,5 @@
+Explain uses of resampling methods 
+• Its about repeatedly drawing samples from a training set and refitting a model of interest on each sample in order to obtain additional information about the fitted model 
+• Cross validation 
+• Boostraping 
+• Ensemble formation (Bagging/Boosting/Random Forest) 
