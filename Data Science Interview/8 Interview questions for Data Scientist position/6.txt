@@ -1,0 +1,6 @@
+Explain curse of dimensionality 
+
+• Often cited when the data is of high dimension — lot of variables 
+• Data availability is an issue in such a case 
+• Significance test becomes a problem 
+• Some ML algos are suitable in such cases 
