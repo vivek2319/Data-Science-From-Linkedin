@@ -1,0 +1,6 @@
+How do you control bias in your model 
+• Sample should be representative 
+• Choose large sample 
+• Include all import predictors 
+• Avoid using highly correlated variables 
+• Randomize sample selection 
