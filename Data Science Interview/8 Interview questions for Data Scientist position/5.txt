@@ -1,0 +1,10 @@
+Explain identification, handling of outliers? 
+• Identification 
+• Visualization 
+• Three sigma rule — 3 sigma std from the mean 
+• Box-plots, Qqplots 
+• Cook's distance 
+• Handling 
+• Remove from the data if the effect on the model is significant 
+• Variable transformation 
+• Use robust methods 
