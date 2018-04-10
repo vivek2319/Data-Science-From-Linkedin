@@ -1,0 +1,10 @@
+How to test if regression & classification 
+models are working fine 
+• Regression 
+• R square 
+• RMSE 
+• AIC/SBC 
+• Classification 
+• C statistics 
+• Accuracy 
+• AIC/SBC 
