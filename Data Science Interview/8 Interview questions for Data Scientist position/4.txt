@@ -1,0 +1,6 @@
+Explain Lift of a Model 
+• An indicator to measure how effective is the model 
+• Lift = Target response/Average response 
+• CTR is 5% without the model and CTR is 15% after the model has been used 
+• Lift = 15/5 = 3 
+• Quartile Distribution of Lift — 60% of CTR is happening in 20% of the ads scored by the model 
