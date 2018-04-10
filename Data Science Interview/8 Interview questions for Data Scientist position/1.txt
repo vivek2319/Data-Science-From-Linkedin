@@ -1,0 +1,11 @@
+Tell us some of the common data quality issues faced in modelling? 
+• Data type issues — Values in column should be same data type 
+• Range constraints — Data falling within minimum & max value : probability 
+• Mandatory constraints - Certain column can't be empty 
+• Unique constraints — a field must be unique across datasets 
+• Value constraint — Gender column can only be male or female 
+• Constraint on patter — Phone should have ISD code within bracket 
+• Spelling error 
+• Missing Value & the reason behind 
+• Outlier Detection 
+• Cross field Validation — date of joining cant be before date of birth 
