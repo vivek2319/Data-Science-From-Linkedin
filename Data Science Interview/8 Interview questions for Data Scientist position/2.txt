@@ -1,0 +1,7 @@
+What is the life cycle of a Data Science/Analytics Project 
+• Data Acquisition — Internal & External data, Collation. 
+• Data Preparation — Cleaning the data to make it look suitable for modelling 
+• Modelling— Model building using ML algos , validation, select best model 
+• Evaluation & Interpretation — Models are evaluated & tweaked to improve performance 
+• Deployment 
+• Monitoring - 
