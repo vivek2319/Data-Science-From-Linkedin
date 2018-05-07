@@ -1,0 +1,33 @@
+
+Kyle McKiou
+Kyle McKiou
+I Help Data Scientists Get Jobs! | Director of Data Science | Entrepeneur
+4h • Edited
+How to Fail Data Science Case Studies
+
+Here are a few mistakes that YOU should avoid if you want to pass take-home assignments:
+
+	1. Write a script that runs from start to finish with no control statements, no functions, and no classes
+	2. Don’t tune your models
+	3. Blame the algorithms for poor results
+	4. Give all your variables cryptic names: x11, x12, x13
+	5. Don’t visualize the data
+	6. Skip EDA
+	7. Don’t even think about feature engineering
+	8. Use R... when the directions clearly say “use Python”
+	9. Ignore the directions completely
+	10. Take 3 weeks to finish because “you’re too busy” (even though you’re unemployed and looking for a job)
+	11. Send multiple emails asking questions that are answered in the directions
+	12. Don’t include your results in the write up
+	13. Don’t spell-check your report
+	14. Be incredibly inefficient (e.g. grid search on a massive parameter space) and then blame your computer for “taking too long”
+	15. Don’t look for duplicates in the data
+	16. Only use advanced models without trying anything simple
+	17. Give an incorrect summary of the algorithm you selected
+	18. Blatantly copy-paste code off the internet 
+
+Avoid these and you'll have a lot more success with your case studies!
+
+#datascience
+
+And yes, I've seen each of these multiple times!!!
