@@ -1,0 +1,36 @@
+
+20 Questions to Ask Prior to Starting Data Analysis
+Link to article: https://www.linkedin.com/pulse/20-questions-ask-prior-starting-data-analysis-kate-strachnyi-/
+    Published on May 14, 2018
+
+Kate Strachnyi ♕
+Kate Strachnyi ♕
+
+It is crucial to ask the right questions and/or understand the problem, prior to beginning data analysis. Below is a list of 20 questions you need to ask before delving into analysis:
+
+    Who is the audience that will use the results from the analysis? (board members, sales people, customers, employees, etc)
+    How will the results be used? (make business decision, invest in product category, work with a vendor, identify risks, etc)
+    What questions will the audience have about our analysis? (ability to filter on key segments, look at data across time to identify trends, drill-down into details, etc)
+    How should the questions be prioritized to derive the most value?
+    Identify key stakeholders and get their input on interesting questions
+    Who should be able to access the information? think about confidentiality/ security concerns
+    Who will develop and maintain the report?
+    What information will be on each report?
+    What reports currently exist in another format? What changes might be made to existing reports?
+    What ETLs or stored procedures need to be developed, if any?
+    What database enhancements are required to meet reporting requirements?
+    When will each report be delivered?
+    What is the frequency of updates required for the data? to ensure currency
+    Which data sources are available to work with?
+    Do I have the required permissions or credentials to access the data necessary for analysis?
+    What is size of each data set and how much data will I need to get from each one?
+    How familiar am I with the underlying tables and schema in each database? Do I need to work with anyone else to understand the data structure
+    Do I need all the data for more granular analysis, or do I need a subset to ensure faster performance?
+    Will the data need to be standardized due to disparity?
+    Will I need to analyze data from external sources, which resides outside of my organization’s data?
+
+Sources:
+
+https://www.sisense.com/blog/requirements-elicitation-enterprise-business-analytics/
+
+http://www.dallasisd.org/cms/lib/TX01001475/Centricity/domain/5173/updated%20files%20as%20of%200912/Data%20Analysis%20Guiding%20Questions.pdf
