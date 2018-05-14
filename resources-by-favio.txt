@@ -1,0 +1,19 @@
+Transfer Learning, Deep Learning models at Scale, Deploying Deep Learning models in SQL and more with Apache Spark and Deep Cognition.
+
+Hi everyone, I hope you enjoyed your weekend :). The blog, video and GitHub code are released now for my latest webinar on Deep Learning with Apache Spark.
+
+Here you can find the blog post with all the information:
+
+https://lnkd.in/eRG92Fz
+
+Here is the video:
+
+https://lnkd.in/eWmxYus
+
+And here is the GitHub with all the code:
+
+https://lnkd.in/ehYP9AT
+
+Hope you find this helpful and let me know if you have any doubts :).
+
+Have fun!
