@@ -1,0 +1,50 @@
+
+Nic Ryan
+Nic Ryan
+Data Scientist, Startup Enthusiast, Maker/ Hacker
+23h
+Let's talk statistics:
+
+- Correlation vs causation
+
+- Standard deviation and measures of dispersion
+
+- Mean vs median
+
+- Random variables
+
+- Expected values and variance
+
+- p-values (now this one is massively misunderstood)
+
+- Distributions
+
+- GLMs
+
+- Bayesian stats
+
+
+
+Gaaargh! You can spend a lifetime learning this stuff! Anyway, pick your flavor below and learn you some statistics with an awesome Youtube session. Other suggestions are welcome.
+
+
+
+Less comfortable:
+
+Professor Leonard
+
+https://lnkd.in/g5C7Giv
+
+Khan Academy
+
+https://lnkd.in/g3aNmkp
+
+More comfortable:
+
+MIT Statistics for Applications
+
+https://lnkd.in/gWT3nFM
+
+Harvard Stat 110
+
+https://lnkd.in/gkKhpsH
