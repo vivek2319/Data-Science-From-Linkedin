@@ -1,0 +1,35 @@
+
+Kyle McKiou
+Kyle McKiou
+I Help Data Scientists Get Jobs! | Chief Data Scientist | Entrepreneur
+1w
+I often get asked - what's the best certification to become a data scientist?
+
+👉 My answer is always the same: none.
+
+The reality is that the certifications don't matter for data science.
+
+This isn't accounting. We aren't using the same techniques over and over again to solve well-defined problems.
+
+The problem are challenging, the data is messy, and techniques used are numerous.
+
+So if you've been wondering which certification you should get, save yourself some mental energy and stop thinking about it - they don't matter.
+
+👉 Instead, grab a dataset and start playing with it.
+
+Start applying what you know and trying to solve interesting problems.
+
+Turn these explorations and learning experiences into portfolio projects and leverage them in your job search.
+
+This will help you a lot more than stack your resume with certifications.
+
+👉 Here are a few places to grab datasets to get you started:
+
+Kaggle - https://lnkd.in/gzz_ZWd
+UCI ML repo - https://lnkd.in/gXvUaGt
+Quandl - https://lnkd.in/g3BimjE
+Data.gov - https://www.data.gov/
+World Bank - https://lnkd.in/gNq_-CS
+Springboard - https://lnkd.in/guMp55R
+
+#aspiring #datascience #machinelearning #data
