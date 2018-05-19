@@ -7,7 +7,7 @@ This repository focuses on saving my linkedin articles and important activities.
 [Machine Learning Glossary by Google](https://developers.google.com/machine-learning/glossary/)
 
 
-##If you are looking for best blogs on ML and AI then following is the list you might want to check out:
+## If you are looking for best blogs on ML and AI then following is the list you might want to check out:
 - •	[John Langford’s Machine Learning (Theory) :](http://hunch.net/)
 - •	[Marl Reid's Thoughts on Machine Learning and Inference:](http://mark.reid.name/iem)
 - •	[Alex Smola’s Adventures in Data Land :](http://blog.smola.org/)
