@@ -1,0 +1,23 @@
+
+Rachel (Qi) Zhao
+Rachel (Qi) Zhao
+Seeking full-time data analyst position | Business intelligence lead at SMU Athletics
+2w • Edited
+Tableau Integration with R 
+
+As I recently work on a client project, I integrate R with Tableau and created some predictive models with several R packages. I found the process was easier than I expected. 
+
+I recommend this feature to people who are proficient with R and R functions and would like to expand the horizon of data visualization (or save yourselves some time). 
+
+Users who are already proficient with R will find the integration beneficial for several reasons:
+
+They will be able to do statistical analysis on their Tableau data.
+They will be able to access any R package or function that has been installed in an R server which they can access.
+They will be able to take advantage of all of the visualization capabilities in Tableau to further analyze and understand their data without having to manipulate their data in R (which can be cumbersome) for the same effect.
+
+Free resources that will help you to get started: 
+https://lnkd.in/g65JcXS
+https://lnkd.in/gfjf_Zi
+https://lnkd.in/grbW3F9 
+#r  #tableau  #datavisualization  #statistics  #resources 
+Thank you Kate Strachnyi ♕ for daily motivation.
