@@ -1,0 +1,18 @@
+
+Ian Swanson
+Ian Swanson
+CEO & Founder DataScience.com
+5d
+Introduction to Churn Prediction in Python
+Tutorial here ---> http://bit.ly/2Ij82hD
+
+This tutorial provides a step-by-step guide for predicting churn using Python. Boosting algorithms are fed with historical user information in order to make predictions. This type of pipeline is a basic predictive technique that can be used as a foundation for more complex models.
+
+This post was contributed by Seyed Sajjadi. Seyed is a data scientist at Electronic Arts (EA). His general research interest lies primarily in the theory and application of artificial intelligence, specifically in cognitive architectures, machine learning, computer vision, and robotics. 
+
+Thanks for sharing with the data science community Seyed!
+
+Tutorial here ---> http://bit.ly/2Ij82hD
+
+#machinelearning #artificialintelligence #datascience #python #howto #scientists 
+DataScience.com
