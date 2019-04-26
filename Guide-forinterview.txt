@@ -1,0 +1,3 @@
+Most comprehensive guide for interview:
+
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/?utm_source=linkedin.com&utm_medium=social
