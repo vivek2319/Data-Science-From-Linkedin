@@ -1,0 +1,35 @@
+
+Kyle McKiou
+Kyle McKiou
+ • 1st
+I Teach Data Scientists How to Get Jobs
+2h
+My Top 9 Concepts to Know for NLP
+
+Interested in NLP? Get familiar with these 9 algorithms before you get started:
+
+    1. tf-idf - https://lnkd.in/ghfqfm7
+    2. N-grams - https://lnkd.in/gCDChaT
+    3. Stemming - https://lnkd.in/gwHuE68
+    4. Lemmatisation - https://lnkd.in/gRU8Q5m
+    5. Cosine similarity - https://lnkd.in/gEMj9hp
+    6. Bag-of-words - https://lnkd.in/gzv7NDX
+    7. Word2vec - https://lnkd.in/gV2yEsn
+    8. LDA - https://lnkd.in/gF2qcnJ
+    9. Edit distance - https://lnkd.in/gy3wU5H
+
+Bonus: LSTM - https://lnkd.in/gu9H9vM
+
+Get familiar with these concepts at a high level, and then grab a dataset and start playing around. You'll learn a lot more by implementing these ideas with real data than just reading and studying forever.
+
+Here are two great sources to grab free text datasets:
+👉 https://lnkd.in/gABJX4w
+👉 https://lnkd.in/gFR9njn
+
+Remember to start simple and then iteratively build and test from there (not every model needs to be a neural network!).
+
+👉 Get familiar with these 9 concepts and and you'll be ready to conquer challenging NLP problems in no time.
+
+👉 Stay up to date with more info: https://lnkd.in/g7AYg72
+
+#datascience #machinelearning #nlp
