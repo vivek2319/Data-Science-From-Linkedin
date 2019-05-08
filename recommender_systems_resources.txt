@@ -1,0 +1,37 @@
+
+Kyle McKiou
+ • 1st
+I Teach Data Scientists How to Get Jobs
+4h
+My Top 7 Algorithms to Know for Building Recommender Systems
+
+Want to learn how to build awesome rec systems? Start here:
+
+1. Item-based collaborative filtering - https://lnkd.in/gNkK9HP
+2. Non-negative matrix factorization - https://lnkd.in/giUXS-E
+3. Contenting-based filtering - https://lnkd.in/gFvacKs
+4. kNN - https://lnkd.in/gUvEqsR
+5. Knowledge-based rec systems - https://lnkd.in/gW5muUV
+6. Clustering - https://lnkd.in/gdTkW3K
+7. Vector similarity measures: Pearson, Jaccard, cosine - https://lnkd.in/gn55WhP - https://lnkd.in/g5iuCPF - https://lnkd.in/gEMj9hp
+
+Bonus 1: Bayesian networks - https://lnkd.in/gKF2Y87
+Bonus 2: Hidden Markov models - https://lnkd.in/gzzNGtj
+
+Start by getting familiar with collaborative filtering at a high level - https://lnkd.in/gtE5HRB
+
+Then grab a dataset:
+
+* Last.fm - https://lnkd.in/gUr-8U6
+* MovieLens - https://lnkd.in/gNv4FYN
+* Others - https://lnkd.in/gnqu7XR
+
+Next, start exploring the algorithms and experimenting with them on your data.
+
+Lastly, remember to keep it simple!
+
+Get familiar with these 7 concepts and you'll be ready to take on almost any recommendation problem in no time.
+
+👉 And for a much more in-depth article about rec systems, join my mailing list here -  https://lnkd.in/g7AYg72
+
+#datascience
