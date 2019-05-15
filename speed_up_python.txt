@@ -1,0 +1,38 @@
+
+Kyle McKiou
+Kyle McKiou
+ • 1st
+I Teach Data Scientists How to Get Jobs
+2h • Edited
+
+6 tools to speed up your 
+#Python code (with links)
+
+👉 Intel Distribution for Python - https://lnkd.in/gk6EB2P
+
+Optimizes Python for Intel architectures using low-level, high-performance libraries like MKL. Can provide massive speedup for linear algebra routines and ML algorithms.
+
+👉 Numba - https://numba.pydata.org/
+
+Just-in-time compiler (using LLVM) for Python. Replaces slow Python code with optimized machine code at runtime. Super easy to use.
+
+👉 swiftapply - https://lnkd.in/gFK285E
+
+Automatically vectorizes apply calls, or replaces them with the best alternative.
+
+👉 Dask - https://dask.org
+
+Provides parallelism for analytics by extending arrays, dataframes, and lists to "parallel" versions that are ready for distributed environments, plus provides a dynamic task scheduler.
+
+👉 Cython - http://cython.org/
+
+Compile Python into C extensions. General use tool that can have more flexibility and power than simpler alternatives, at the cost of difficulty.
+
+👉 PySpark - https://lnkd.in/gRjExzR
+
+Runs Python code on distributed Spark clusters. Great for processing big data sets.
+
+
+For more details and resources to speed up your Python code (I had to cut this posts short for LI), get signed up for my email list RIGHT NOW :p
+
+-> Sign up here:  https://bit.ly/2BtBe57
