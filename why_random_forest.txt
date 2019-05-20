@@ -1,0 +1,28 @@
+
+David Langer
+ • 1st
+Analytics | Data Science | Machine Learning | Leadership
+1h • Edited
+Today's heresy for the aspiring 
+#analytics and #datascience professionals out there. The reason why I always recommend the mighty random forest algorithm when starting with #machinelearning is that the random forest is the original #automl. 
+
+Consider how the mighty random forest...
+
+1. Handles both classification and regression.
+2. Works with both categorical and numeric data.
+3. Doesn't require centering/scaling of numeric data.
+4. Is robust to outliers and over-fitting.
+5. Works well on many business problems with hyperparameter default values.
+6. Estimates generalization error.
+7. Provides insights into feature importance.
+8. Can be trained in parallel.
+9. Provides an intuitive vehicle for understanding and working the bias-variance trade-off.
+10. Supports problems with complex decision boundaries elegantly.  
+
+When you are first starting out in ML you can't go wrong studying the random forest in-depth. You'll learn about decision trees, ensembling, bagging, and many other fundamental topics for training effective predictive models - even if you decide to use another algorithm (gasp!).  
+
+Interested to learn more? Great intro book: https://lnkd.in/dpkJaYC
+
+Happy data sleuthing!
+
+#practicaldatascience
