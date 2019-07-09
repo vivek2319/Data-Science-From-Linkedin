@@ -1,0 +1,16 @@
+How does K fold works?
+
+
+
+Purpose of K-Fold cross validation is to evaluate new model performance on unseen data only.
+
+So how K-fold works?
+
+       - Model gets trained with training data.
+       - Split the cross validation data set in to K-Folds(or K equal parts).
+       - Get the hyper-parameter from the step-1 and train a new model with K-1 folds.
+       - Evaluate step-3 model using left over Kth fold.
+       - Repeat the process K times.
+       - Take mean value of accuracy.
+
+So we need a score of all K folds for model evaluation.
