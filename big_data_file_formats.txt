@@ -1,0 +1,65 @@
+Big Data File Formats Demystified
+Alex Woodie
+
+(Digital_Art/Shutterstock)
+
+So you’re filling your Hadoop cluster with reams of raw data, and your data analysts and scientists are champing at the bit to get started. Then the question hits you: How are you going to store all this data so they can actually use it?
+
+The good news is Hadoop is one of the most cost-effective ways to store huge amounts of data. You can store all types of structured, semi-structure, and unstructured data within the Hadoop Distributed File System, and process it in a variety of ways using Hive, HBase, Spark, and many other engines.
+
+You have many choices when it comes to storing and processing data on Hadoop, which can be both a blessing and a curse. The data may arrive in your Hadoop cluster in a human readable format like JSON or XML, or as a CSV file, but that doesn’t mean that’s the best way to actually store data.
+
+In fact, storing data in Hadoop using those raw formats is terribly inefficient. Plus, those file formats cannot be stored in a parallel manner. Since you’re using Hadoop in the first place, it’s likely that storage efficiency and parallelism are high on the list of priorities, which means you need something else.
+
+Luckily for you, the big data community has basically settled on three optimized file formats for use in Hadoop clusters: Optimized Row Columnar (ORC), Avro, and Parquet. While these file formats share some similarities, each of them are unique and bring their own relative advantages and disadvantages.
+
+To get the low down on this high tech, we tapped the knowledge of the smart folks at Nexla, a developer of tools for managing data and converting formats. Nexla CTO and co-founder Jeff Williams and Avinash Shahdadpuri, Nexla’s head of data and infrastructure were kind enough to explain to Datanami what’s going on with ORC, Avro, and Parquet.
+What’s The Same
+
+All three of the formats are optimized for storage on Hadoop, and provide some degree of compression. When you’re spending tens of thousands of dollars to buy a distributed disk system to store terabytes or petabytes of data, compression is a very important factor.
+
+ORC is a row-column format developed by Hortonworks for storing data processed by Hive
+
+ORC, Parquet, and Avro are also machine-readable binary formats, which is to say that the files look like gibberish to humans. If you need a human-readable format like JSON or XML, then you should probably re-consider why you’re using Hadoop in the first place.
+
+Files stored in ORC, Parquet, and Avro formats can be split across multiple disks, which lends themselves to scalability and parallel processing. You cannot split JSON and XML files, and that limits their scalability and parallelism.
+
+All three formats carry the data schema in the files themselves, which is to say they’re self-described. You can take an ORC, Parquet, or Avro file from one cluster and load it on a completely different machine, and the machine will know what the data is and be able to process it.
+
+In addition to being file formats, ORC, Parquet, and Avro are also on-the-wire formats, which means you can use them to pass data between nodes in your Hadoop cluster.
+What’s Different
+
+The biggest difference between ORC, Avro, and Parquet is how the store the data. Parquet and ORC both store data in columns, while Avro stores data in a row-based format. By their very nature, column-oriented data stores are optimized for read-heavy analytical workloads, while row-based databases are best for write-heavy transactional workloads.
+
+In order to explain the difference between row and column storage, Shahdadpuri used an example of a big company with a million employees, where an executive wants to find the salaries paid to workers grouped by each location. If the salary and location data sets are stored in a column-oriented manner, then it’s a relatively simple query that only needs to touch data in those two columns.
+
+(Source: Nexla whitepaper “An Introduction to Big Data Formats: Understanding Avro, Parquet, and ORC.”)
+
+“But if you want to do row-by-row, you have to fetch millions of rows and do the operation on each of the rows,” Shahdadpuri says. “In those situations where you’re trying to do a projection on very few columns from your entire data set, columnar is much, much better as opposed to a row-based format.”
+
+Which file format you use all depends on the specific use case. While column-oriented stores like Parquet and ORC excel in some cases, in others a row-based storage mechanism like Avro might be the better choice.
+
+“Let’s say you’re presenting available flights to a user on a Web page,” Williams says. “That just screams out for using use row-based storage because you’re going to want to get a lot of information about each particular entry and you’re probably going to want to get a lot of contiguous entries, like say all the entries from 9 o’clock this morning to 1 o’clock this afternoon. That’s a classic SQL row-based query.”
+
+Because of the way the data is optimized for fast retrieval, the column-based stores, Parquet and ORC, offer higher compression rates than the row-based Avro format, according to Williams. That could tip the scales toward using those file formats when the data gets particularly big.
+
+“If you have an application where you’re just collecting massive amounts of data, like IoT, and you’re worried about your storage costs, you might look at a columnar store because when you store all those values with the same type next to each other, that allows you to do more efficient compression on them than if you’re storing rows of data,” he says. “You’ll often see storage optimization as a reason for pushing people to columnar stores.”
+
+Another aspect to consider is support for schema evolution, or the ability for the file structure to change over time. Among the two columnar formats, ORC offers better schema evolution, according to Nexla. However, Avro offers superior schema evolution thanks to its innovative use of JSON to describe the data, while using binary format to optimize storage size.
+
+“With Avro’s capacity to manage schema evolution, it’s possible to update components independently, at different times, with low risk of incompatibility,” Nexla writes in a recent white paper, titled “An Introduction to Big Data Formats: Understanding Avro, Parquet, and ORC.”
+Matching Use Cases
+
+Finding the right file format for your particular dataset can be tough. In general, if the data is wide, has a large number of attributes and is write-heavy, then a row-based approach may be best. If the data is narrower, has a fewer number of attributes, and is read-heavy, then a column-based approach may be best.
+
+Sometimes Hadoop users may be committed to a column-based format (ORC or Parquet) but as they start getting into a project, the I/O pattern starts to shift towards a more write-heavy presence. In that case, it might be better to switch over to doing row-based storage (Avro) but add indexes that provide better read performance.
+
+Different Hadoop applications also have different affinities for the three file formats. ORC is commonly used with Apache Hive, and since Hive is essentially managed by engineers working for Hortonworks, ORC data tends to congregate in companies that run Hortonworks Data Platform (HDP). Presto is also affiliated with ORC files.
+
+Similarly, Parquet is commonly used with Impala, and since Impala is a Cloudera project, it’s commonly found in companies that use Cloudera’s Distribution of Hadoop (CDH). Parquet is also used in Apache Drill, which is MapR‘s favored SQL-on-Hadoop solution; Arrow, the file-format championed by Dremio; and Apache Spark, everybody’s favorite big data engine that does a little of everything.
+
+Avro, by comparison, is the file format often found in Apache Kafka clusters, according to Nexla. Avro is also the favored big data file format used by Druid, the high performance big data storage and compute platform that came out of Metamarkets and was eventually picked up by Yahoo, the Nexla folks say.
+
+What file format you use to architect your big data solution is important, but it’s just one consideration among many. For more information on the differences among ORC, Avro, and Parquet, check out Nexla’s white paper here.
+
+Source - https://www.datanami.com/2018/05/16/big-data-file-formats-demystified/
