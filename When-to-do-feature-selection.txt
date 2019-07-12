@@ -1,0 +1,25 @@
+
+Kyle McKiou
+Kyle McKiou
+
+Do you do feature selection when building your 
+#machinelearning models?
+
+💡 When should you reduce the number of features used by your model?
+
+Some instances when features selection is necessary:
+• When there is strong collinearity between features
+• There are an overwhelming number of features
+• The is not enough computational power to process all features
+• The algorithm forces the model to use all features, even when they are not useful (most often in parametric or linear models)
+• When you wish to make the model simpler for any reason, e.g. easier to explain, less computational power needed, etc
+
+💡 When is feature selection unnecessary?
+
+Some instances when feature selection is not necessary:
+• There are relatively few features
+• All features contain useful and important signal
+• There is no collinearity between features
+• The model will automatically select the most useful features
+• The computing resources can handle processing all of the features
+• Thoroughly explaining the model to a non-technical audience is not critical
