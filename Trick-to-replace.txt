@@ -1,0 +1,17 @@
+
+Kevin Markham
+Kevin Markham
+ • 1st
+Data Scientist & Founder of Data School
+1h • 
+
+  
+
+ 
+🐼🤹‍♂️ pandas trick # 92:
+Need to clean an object column with mixed data types? Use "replace" (not str.replace) and regex!
+See example 👇
+
+P.S. Not sure when to use "replace" versus "str.replace"? Read this: https://lnkd.in/eFNQqVM
+
+#Python #DataScience #pandas #pandastricks
