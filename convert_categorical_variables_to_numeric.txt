@@ -1,0 +1,16 @@
+ Shivanand Roy
+ • 1st
+Data Scientist
+7h • Edited • 
+
+  
+
+ 
+👉Categorical Embedder: Convert your categorical variables to numeric via Neural Networks
+👉pip install categorical_embedder
+
+👉github: https://lnkd.in/fnxcMxQ
+👉notebook: https://lnkd.in/f6ihTBR
+👉pypi: https://lnkd.in/f7e9-Tw
+
+#datascience #neuralnetworks #deeplearning #embedding #machinelearning #python
