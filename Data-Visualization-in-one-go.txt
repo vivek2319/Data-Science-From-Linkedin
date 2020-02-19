@@ -1,0 +1,21 @@
+ NABIH IBRAHIM BAWAZIR  • 1st
+AI at Datanest and dmand.ai | LinkedIn Spotlight Indonesia 2019 | 137K Followers
+4h • Edited • 
+
+  
+
+ 
+Now you can print Machine Learning Interpretation Dashboard with single line of code
+
+
+I know this is not new, I read that in Favio Vazquez
+ post in Nov 2018 (https://lnkd.in/gy9dKsi)
+
+the syntax is "plot(results$plots$dashboard)"
+
+
+Detailed explanation see https://lnkd.in/gv7gqtF
+
+Credit: Bernardo Lares
+
+#machinelearning #datascience #artificialintelligence
